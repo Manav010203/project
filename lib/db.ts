@@ -1,0 +1,1 @@
+export const prisma = new (require('@prisma/client').PrismaClient)();
